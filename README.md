@@ -2,6 +2,7 @@
 
 - 🔭 Hoje estou em busca da primeira vaga de emprego ou estágio...
 - 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas
+- 🔭 E Pretendo conseguir fazer a faculdade de Analise e Desenvolvimento de Sistemas 
 
 <div>
   <a href="https://github.com/MarcosT-800">

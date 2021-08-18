@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/MarcosT-800">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosT-800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="right" alt="Rafa-yoda" height="200" width="200" src="https://c.tenor.com/mCnYpxDDsD0AAAAM/get-over-here.gif">
 </div>

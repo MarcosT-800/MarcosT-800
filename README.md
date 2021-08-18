@@ -1,4 +1,4 @@
-### Olá Meu Nome é Marcos! 👋
+### Oiie, Meu Nome é Marcos! 👋
 
 - 🔭 Hoje estou em busca da primeira vaga de emprego ou estágio...
 - 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas
@@ -7,9 +7,9 @@
 <div>
   <a href="https://github.com/MarcosT-800">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosT-800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <img align="right" alt="Rafa-yoda" height="250" width="250" src="https://c.tenor.com/mCnYpxDDsD0AAAAM/get-over-here.gif">
+  <img align="right" alt="Rafa-yoda" height="200" width="200" src="https://c.tenor.com/mCnYpxDDsD0AAAAM/get-over-here.gif">
 </div>
   
   
@@ -23,7 +23,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
   

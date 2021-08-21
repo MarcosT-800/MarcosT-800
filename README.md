@@ -1,14 +1,24 @@
-### Oiie, Meu Nome é Marcos! 👋
+ <h1>Oiie, Meu Nome é Marcos! 👋</h1>
+ 
+ <h3 align="center">Programador jr em busca de sempre aprender cada vez mais linguagens de programação, e desenvolver sistemas eficiêntes.</h3>
 
+##
 - 🔭 Hoje estou em busca da primeira vaga de emprego ou estágio...
 - 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas
 - 🔭 E Pretendo conseguir fazer a faculdade de Analise e Desenvolvimento de Sistemas 
 
+##
 <div>
   <a href="https://github.com/MarcosT-800">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosT-800&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosT-800&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosT-800&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+  ##
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosT-800&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosT-800" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosT-800" alt="MarcosT-800" /></a> </p>
   
 <div>
   <img align="right" alt="Rafa-yoda" height="180" width="180" src="https://c.tenor.com/mCnYpxDDsD0AAAAM/get-over-here.gif">
@@ -39,7 +49,12 @@
      <a href="https://discord.com/channels/874280525114785823/874280525114785826" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href = "marcosalvesjr007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-alves-b2934a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+    
  
 </div>

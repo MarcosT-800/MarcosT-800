@@ -4,7 +4,7 @@
 
 ##
 - 🔭 Hoje estou em busca da primeira vaga de emprego ou estágio...
-- 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas
+- 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas na Etec Zona Leste
 - 🔭 E Pretendo conseguir fazer a faculdade de Analise e Desenvolvimento de Sistemas 
 
 ##
@@ -38,6 +38,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
  
   

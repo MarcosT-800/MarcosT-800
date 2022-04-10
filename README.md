@@ -18,7 +18,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosT-800&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosT-800" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosT-800" alt="MarcosT-800" /></a> </p>
+
   
 <div>
   <img align="right" alt="Rafa-yoda" height="180" width="180" src="https://c.tenor.com/mCnYpxDDsD0AAAAM/get-over-here.gif">
@@ -40,6 +40,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
  
   

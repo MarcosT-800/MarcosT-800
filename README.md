@@ -21,7 +21,7 @@
 
   
 <div>
-  <img align="right" alt="Rafa-yoda" height="180" width="180" src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif">
+  <img align="right" alt="Rafa-yoda" height="200" width="350" src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif">
 </div>
   
   

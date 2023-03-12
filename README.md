@@ -1,11 +1,11 @@
- <h1 align="center">Falaa Dev!, Meu Nome é Marcos 👋</h1>
+ <h1 align="center">Oii!, Meu Nome é Marcos 👋</h1>
  
- <h3 align="center">Programador Em busca de poder ajudar e melhorar a vida de muitas pessoas atraves da Programação, Acredito que a programação pode mudar vidas e que a sua também será um delas seja bem vindo ao meu Github.</h3>
+ <h3 align="center">Programador fullstack.</h3>
 
 ##
-- 🔭 Status: Freelancer
-- 🌱 Estou Fazendo um Curso Tecnico de Desenvolvimento de Sistemas na Etec da Zona Leste
-- 🔭 E Pretendo ingressar na faculdade de Analise e Desenvolvimento de Sistemas em 2023...
+- 🔭 Status: Desenvolvedor Web Fullstack
+- 🌱 Técnico em Desenvolvimento de Sistemas 
+- 🔭 Graduando em Análise e Desenvolvimento de Sistemas
 
 ##
 <div>

@@ -1,10 +1,10 @@
- <h1 align="center">Oii!, Meu Nome é Marcos 👋</h1>
+ <h1 align="center">Falaa Dev! bem vindo ao meu Github, Meu Nome é Marcos 👋</></h1>
  
  <h3 align="center">Programador fullstack.</h3>
 
 ##
-- 🔭 Status: Desenvolvedor Web Fullstack
-- 🌱 Técnico em Desenvolvimento de Sistemas 
+- 🔭 Status: Desenvolvedor Fullstack
+- ⌨️ Técnico em Desenvolvimento de Sistemas 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas
 
 ##

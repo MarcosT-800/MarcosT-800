@@ -1,6 +1,6 @@
  <h1 align="center">Falaa Dev! bem vindo ao meu Github, Meu Nome é Marcos 👋</></h1>
  
- <h3 align="center">Programador Front-end.</h3>
+ <h3 align="center">Desenvolvedor Web Full Stack | Apaixonado por Tecnologia e Inovação.</h3>
 
 ##
 - 🔭 Status: Desenvolvedor Fullstack

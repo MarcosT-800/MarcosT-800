@@ -1,4 +1,4 @@
- <h1 align="center">Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos e contribuições no mundo da programação. Sinta-se à vontade para explorar, colaborar e compartilhar ideias. Vamos juntos construir um mundo digital incrível! 👋</></h1>
+ <h1 align="center">Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos e contribuições no mundo da programação. Sinta-se à vontade para explorar👋</></h1>
  
  <h3 align="center">Desenvolvedor Web Full Stack | Apaixonado por Tecnologia e Inovação.</h3>
 
